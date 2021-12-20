@@ -27,7 +27,7 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/parts/header.php');?>
 <?php if($template['is_search']): ?>
     <div class="back_look">
-        <button id="button_ad"><a id="href_back_look" href="..\ad.php">назад</a></button>
+        <button id="button_ad"><a id="href_back_look" href="..\attention.php">назад</a></button>
     
 
     </div>
